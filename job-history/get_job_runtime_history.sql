@@ -1,3 +1,5 @@
+# show historical runtimes per job step
+
 USE msdb;
 GO
 
