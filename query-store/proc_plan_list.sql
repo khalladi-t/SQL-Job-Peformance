@@ -1,3 +1,5 @@
+#Show all plans used
+
 SELECT
     q.query_id,
     p.plan_id,
