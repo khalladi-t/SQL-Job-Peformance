@@ -1,4 +1,4 @@
-#how long did it take last run
+#how long did it took last run
 
 USE msdb;
 GO
