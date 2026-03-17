@@ -1,3 +1,5 @@
+#Confirm SQL Server memory usage & pressure
+
 SELECT
     physical_memory_in_use_kb / 1024.0 AS sqlserver_memory_mb,
     memory_utilization_percentage,
