@@ -1,4 +1,4 @@
-l# SQL-Job-Peformance
+# SQL-Job-Peformance
 This repository contains SQL diagnostic scripts, DMV queries, and tuning steps used to troubleshoot a major performance regression.
 
 
