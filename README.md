@@ -24,7 +24,7 @@ This repository contains SQL diagnostic scripts, DMV queries, and tuning steps u
 # Tools
 SQL Server Management Studio (SSMS)
 
-SQL Server 2018
+SQL Server 2022
 
 nGenue
 
